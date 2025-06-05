@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "productName": "Wild Rice Pilaf",
+    "productCategory": "Food - Grains",
+    "unitPrice": 3.79
+  },
+  {
+    "id": 2,
+    "productName": "Organic Granola Cereal",
+    "productCategory": "Food - Breakfast",
+    "unitPrice": 5.99
+  },
+  {
+    "id": 3,
+    "productName": "Classic Black Trousers",
+    "productCategory": "Clothing - Pants",
+    "unitPrice": 54.99
+  },
+  {
+    "id": 4,
+    "productName": "Pet Grooming Gloves",
+    "productCategory": "Pets",
+    "unitPrice": 9.99
+  },
+  {
+    "id": 5,
+    "productName": "Spinach Artichoke Dip",
+    "productCategory": "Food - Snacks",
+    "unitPrice": 4.99
+  },
+  {
+    "id": 6,
+    "productName": "Tofu",
+    "productCategory": "Food - Meat Alternatives",
+    "unitPrice": 2.49
+  },
+  {
+    "id": 7,
+    "productName": "Spicy Salsa Verde",
+    "productCategory": "Food - Condiments",
+    "unitPrice": 3.49
+  },
+  {
+    "id": 8,
+    "productName": "Active Racerback Tank",
+    "productCategory": "Clothing - Tops",
+    "unitPrice": 24.99
+  },
+  {
+    "id": 9,
+    "productName": "Collapsible Colander",
+    "productCategory": "Kitchen",
+    "unitPrice": 14.99
+  },
+  {
+    "id": 10,
+    "productName": "Electric Heating Pad",
+    "productCategory": "Health",
+    "unitPrice": 20.99
+  }
+]
